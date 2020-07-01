@@ -8,7 +8,7 @@ namespace Git1_2
         {
             //Console.WriteLine("Hello World!");
 
-            Console.WriteLine("intitial commiting");
+            //Console.WriteLine("intitial commiting");
         }
     }
 }
